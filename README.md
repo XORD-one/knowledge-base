@@ -3,8 +3,9 @@
 Global knowlegde base repository on which anyone can share articles, gists, and useful open source repositories. 
 
 - Fork the repo
+- Create a new branch
 - Edit the Readme.md file
-- Create a PR
+- Create a PR to master branch
 
 # Contributors
 
