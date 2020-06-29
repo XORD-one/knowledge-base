@@ -5,7 +5,9 @@ Global knowlegde base repository on which anyone can share articles, gists, and 
 - Fork the repo
 - Create a new branch
 - Edit the Readme.md file
-- Create a PR to master branch
+- Create a PR to master branch with label automerge
+- To avoid merge conflicts do not add your name in the last of the file
+- Make sure the spelling of automerge is same
 
 # Contributors
 
