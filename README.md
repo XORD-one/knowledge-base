@@ -11,9 +11,9 @@ Global knowlegde base repository on which anyone can share articles, gists, and 
 
 # Contributors
 
-| Username| URL| Description                                 
-[SarfarazAhmedKhan](https://github.com/SarfarazAhmedKhan)| [Video and Voice Call Feature React-Native](https://github.com/SarfarazAhmedKhan/Video-and-Voice-calling-in-react-native.git) | Live Video and Voice call in react native using react-native-agora.
-| ------------------------------------------------- | ----------------------------------------------------------------------------------- | -------------------------------------------------- |
+Username | URL | Description
+| ------------------------------------------------- | ----------------------------------------------------------------------------------- | -------------------------------------------------- |                       
+| [SarfarazAhmedKhan](https://github.com/SarfarazAhmedKhan)| [Video and Voice Call Feature React-Native](https://github.com/SarfarazAhmedKhan/Video-and-Voice-calling-in-react-native.git) | Live Video and Voice call in react native using react-native-agora.
 | [Shakeib Shaida](https://github.com/shakeib98)    | [TheGraph](http://thegraph.com/)                                                    | Ethereum Blockchain Query Protocol                 |
 | [Shakeib Shaida](https://github.com/shakeib98)    | [Web3 React](https://github.com/NoahZinsmeister/web3-react)                         | Web3 connector for connecting all types of wallets |
 | [Abdul Sami J](https://github.com/abdulsamijay) | [Clarity Library](https://github.com/abdulsamijay/blockstack-contract/) | SafeMath & Ownable for Clarity             |
