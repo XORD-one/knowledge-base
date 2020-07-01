@@ -19,3 +19,4 @@ Username | URL | Description
 | [Abdul Sami J](https://github.com/abdulsamijay) | [Clarity Library](https://github.com/abdulsamijay/blockstack-contract/) | SafeMath & Ownable for Clarity             |
 | [Abdul Sami J](https://github.com/abdulsamijay) | [EtherJS BoilerPlate](https://github.com/xorddotone/etherjs-boilerplate) | EtherJS Implementaion for React & NodeJS           |
 | [Khuzama Shahid](https://github.com/khuzama98)       | [2FA-With-Gauth](https://github.com/khuzama98/2fa-with-Gauth)                                               | 2FA - An repo containing routes for 2FA  |
+| [Kashan Siddiqui](https://github.com/KashanSiddiqui)       | [NestJs-Boilerplate](https://github.com/KashanSiddiqui/Nest-Js-Boiler-Plate)                                               | NestJs boilerplate containing all the basic features including payment gateways  |
