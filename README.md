@@ -11,12 +11,13 @@ Global knowlegde base repository on which anyone can share articles, gists, and 
 
 # Contributors
 
-Username | URL | Description
-| ------------------------------------------------- | ----------------------------------------------------------------------------------- | -------------------------------------------------- |                       
-| [SarfarazAhmedKhan](https://github.com/SarfarazAhmedKhan)| [Video and Voice Call Feature React-Native](https://github.com/SarfarazAhmedKhan/Video-and-Voice-calling-in-react-native.git) | Live Video and Voice call in react native using react-native-agora.
-| [Shakeib Shaida](https://github.com/shakeib98)    | [TheGraph](http://thegraph.com/)                                                    | Ethereum Blockchain Query Protocol                 |
-| [Shakeib Shaida](https://github.com/shakeib98)    | [Web3 React](https://github.com/NoahZinsmeister/web3-react)                         | Web3 connector for connecting all types of wallets |
-| [Abdul Sami J](https://github.com/abdulsamijay) | [Clarity Library](https://github.com/abdulsamijay/blockstack-contract/) | SafeMath & Ownable for Clarity             |
-| [Abdul Sami J](https://github.com/abdulsamijay) | [EtherJS BoilerPlate](https://github.com/xorddotone/etherjs-boilerplate) | EtherJS Implementaion for React & NodeJS           |
-| [Khuzama Shahid](https://github.com/khuzama98)       | [2FA-With-Gauth](https://github.com/khuzama98/2fa-with-Gauth)                                               | 2FA - An repo containing routes for 2FA  |
-| [Kashan Siddiqui](https://github.com/KashanSiddiqui)       | [NestJs-Boilerplate](https://github.com/KashanSiddiqui/Nest-Js-Boiler-Plate)                                               | NestJs boilerplate containing all the basic features including payment gateways  |
+| Username                                                  | URL                                                                                                                           | Description                                                                     |
+| --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| [SarfarazAhmedKhan](https://github.com/SarfarazAhmedKhan) | [Video and Voice Call Feature React-Native](https://github.com/SarfarazAhmedKhan/Video-and-Voice-calling-in-react-native.git) | Live Video and Voice call in react native using react-native-agora.             |
+| [Shakeib Shaida](https://github.com/shakeib98)            | [TheGraph](http://thegraph.com/)                                                                                              | Ethereum Blockchain Query Protocol                                              |
+| [Shakeib Shaida](https://github.com/shakeib98)            | [Web3 React](https://github.com/NoahZinsmeister/web3-react)                                                                   | Web3 connector for connecting all types of wallets                              |
+| [Abdul Sami J](https://github.com/abdulsamijay)           | [Clarity Library](https://github.com/abdulsamijay/blockstack-contract/)                                                       | SafeMath & Ownable for Clarity                                                  |
+| [Abdul Sami J](https://github.com/abdulsamijay)           | [EtherJS BoilerPlate](https://github.com/xorddotone/etherjs-boilerplate)                                                      | EtherJS Implementaion for React & NodeJS                                        |
+| [Khuzama Shahid](https://github.com/khuzama98)            | [2FA-With-Gauth](https://github.com/khuzama98/2fa-with-Gauth)                                                                 | 2FA - An repo containing routes for 2FA                                         |
+| [Kashan Siddiqui](https://github.com/KashanSiddiqui)      | [NestJs-Boilerplate](https://github.com/KashanSiddiqui/Nest-Js-Boiler-Plate)                                                  | NestJs boilerplate containing all the basic features including payment gateways |
+| [Asad Naeem](https://github.com/asadnaeem1)               | [GraphQL](https://graphql.org/)                                                                                               | A query language for your API                                                   |
